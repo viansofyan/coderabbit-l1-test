@@ -2,3 +2,5 @@ reviews:
   tools:
     eslint:
       enabled: true
+    pylint:
+      enabled: true
