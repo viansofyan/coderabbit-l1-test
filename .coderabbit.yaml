@@ -8,3 +8,8 @@ reviews:
     enabled: true
     max_merge_risk: low
     max_security_risk: low
+knowledge_base:
+  code_guidelines:
+    enabled: true
+    filePatterns:
+      - "coderabbit-l3-test/private-guidelines:guidelines/secret-guide.md"
