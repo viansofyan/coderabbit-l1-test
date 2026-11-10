@@ -4,3 +4,7 @@ reviews:
       enabled: true
     pylint:
       enabled: true
+  auto_approvals:
+    enabled: true
+    max_merge_risk: low
+    max_security_risk: low
