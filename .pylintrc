@@ -1,0 +1,6 @@
+[MASTER]
+load-plugins=canary_plugin
+
+[MESSAGES CONTROL]
+disable=all
+enable=canary-l1-pylint
